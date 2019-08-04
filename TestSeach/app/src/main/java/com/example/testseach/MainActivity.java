@@ -46,6 +46,9 @@ public class MainActivity extends AppCompatActivity {
         return new SpannedString(str);
     }
 
+
+    
+
     /**
      *
      * @param str 全部的字符串
